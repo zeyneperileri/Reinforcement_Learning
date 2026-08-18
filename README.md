@@ -13,6 +13,8 @@ This repository is structured sequentially to reflect the learning progression o
 
 *   [**01. Iterative Policy Evaluation**](./01_Iterative_Policy_Evaluation) 
     *   *Solution of the General Bellman Equation using iterative state-value updates.*
+*   [**02. Bellman Optimality Equation (BOE)**](./02_Bellman_Optimality_Equation)
+    *   *General matrix-vector Value Iteration solver based on the Contraction Mapping Theorem.*
 *   *(More chapters and algorithms will be added progressively...)*
 
 ## 🛠️ Technologies & Tools
